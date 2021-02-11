@@ -18,3 +18,9 @@ personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 
 console.log(personalMovieDB);
+
+if (4==9) {
+    console.log('OK!');
+}else {
+    console.log('E');
+}
